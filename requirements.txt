@@ -10,7 +10,7 @@ scikit-learn
 numba
 inflect
 tqdm
-anyasci
+anyascii
 pyyaml
 fsspec>=2023.6.0 # <= 2023.9.1 makes aux tests fail
 aiohttp
