@@ -21,7 +21,7 @@ flask
 pysbd
 # deps for notebooks
 umap-learn
-"pandas<2.0"
+pandas<2.0
 # deps for training
 matplotlib
 # coqui stack
